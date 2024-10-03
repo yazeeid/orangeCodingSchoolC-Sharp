@@ -1,0 +1,7 @@
+C:\Users\yazee\C#\taskOne\taskOne\bin\Debug\taskOne.exe.config
+C:\Users\yazee\C#\taskOne\taskOne\bin\Debug\taskOne.exe
+C:\Users\yazee\C#\taskOne\taskOne\bin\Debug\taskOne.pdb
+C:\Users\yazee\C#\taskOne\taskOne\obj\Debug\taskOne.csproj.AssemblyReference.cache
+C:\Users\yazee\C#\taskOne\taskOne\obj\Debug\taskOne.csproj.CoreCompileInputs.cache
+C:\Users\yazee\C#\taskOne\taskOne\obj\Debug\taskOne.exe
+C:\Users\yazee\C#\taskOne\taskOne\obj\Debug\taskOne.pdb
